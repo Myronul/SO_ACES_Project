@@ -1,6 +1,6 @@
 MQTT Server Project – Operating Systems Master Course, ACES UNSTPB ETTI
 
-                        Project Overview
+Project Overview:
 
 This is the final project for the Operating Systems course at the ACES Master program, ETTI, UNSTPB. The goal of this project is the development of 
 an MQTT server in C running on Linux, capable of handling multiple clients and topics concurrently.
