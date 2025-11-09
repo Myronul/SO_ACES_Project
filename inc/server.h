@@ -5,6 +5,9 @@
 #include<stdbool.h>
 #include<stdint.h>
 #include<stdlib.h>
+#include <string.h>
+#include <unistd.h>
+#include <arpa/inet.h>
 
 #define MAX_THRED_N 16
 

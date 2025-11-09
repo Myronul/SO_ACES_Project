@@ -1,7 +1,7 @@
 # Compilatorul și flag-urile
 CC = gcc
 CFLAGS = -Wall -Wextra -I inc
-LDFLAGS = 
+LDFLAGS = -pthread #optiuni folosite doar la linkare
 
 # Directoare
 SRC_DIR = src
