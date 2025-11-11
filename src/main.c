@@ -4,6 +4,6 @@
 
 int main()
 {
-    printf("Hellow world!\n");
+    server_run();
     return 0;
 }
